@@ -1,0 +1,13 @@
+.bg-custom{
+   background: linear-gradient(#e1b545 ,10%, #e5b741, #d69e11)
+    /* background-image: url('./../../public/img/photo-1535905557558-afc4877a26fc.avif'); */
+}
+
+body{
+    background-color: rgb(182, 182, 182);
+}
+
+.div-bg{
+   border: none;
+    background: none;
+}
